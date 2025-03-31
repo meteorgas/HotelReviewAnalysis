@@ -18,3 +18,6 @@ This project analyzes hotel reviews using **Natural Language Processing (NLP)** 
 - Build and evaluate ML sentiment classifier
 - Train using translated Turkish reviews
 - Visualize review insights for hotel businesses
+
+DataSet Source:
+https://www.kaggle.com/datasets/ranjitha1/hotel-reviews-city-chennai
